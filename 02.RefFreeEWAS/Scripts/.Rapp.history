@@ -1,0 +1,5 @@
+load("/Users/kevinjohnson/Documents/KomenTissueNormalBreast/NormalBreast_Genomewide/I.Preprocessing/Data/RefFree-Adjusted-Age-2016May14.RData")
+ls.str()
+load("/Users/kevinjohnson/Documents/Komen_Betas_BMIQ.RData")
+? qqunif
+?? qqunif
