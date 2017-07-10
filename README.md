@@ -2,7 +2,7 @@
 
 Kevin C. Johnson, E. Andres Houseman, Jessica E. King, and Brock C. Christensen
 
-'Breast Cancer Research' publication link: http://rdcu.be/t5r3
+*Breast Cancer Research* publication link: http://rdcu.be/t5r3
 
 Pre-print link:http://www.biorxiv.org/content/early/2017/01/19/101287
 
